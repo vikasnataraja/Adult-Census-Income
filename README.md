@@ -1,4 +1,4 @@
-# Adult-Census-Income
+# Predicting-Adult-Census-Income
 This repo aims to explore various machine learning methods to predict the income for a test set by training the models on known census data.
 
 ## Formatting the dataset ##
